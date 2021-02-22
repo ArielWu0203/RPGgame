@@ -1,2 +1,3 @@
 # RPGgame
-# RPGgame
+`npm install`
+`npm start`
